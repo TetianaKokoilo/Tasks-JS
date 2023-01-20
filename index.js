@@ -1,7 +1,8 @@
-// Завдання перетворити рядок 
+// 1. Завдання перетворити рядок 
 const string = 'hELlo THERE, hOW ARE yOu doINg?';
 console.log(string);
-// Зробити все маленькими літерами і використовуючи метод slice почати речення з другого елемента
+/* Зробити все маленькими літерами і використовуючи метод slice 
+почати речення з другого елемента*/
 const newStringToLowerCase = string.toLowerCase().slice(1);
 console.log(newStringToLowerCase);
 // Зробити першу літеру великою
