@@ -11,3 +11,7 @@ console.log(firstLetter);
 // Перша літера велика інші маленькі
 const newString = firstLetter + newStringToLowerCase;
 console.log(newString);
+
+// Коротший варіант
+const newString1 = string[0].toUpperCase() + string.slice(1).toLowerCase();
+console.log(newString1);
