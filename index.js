@@ -20,7 +20,7 @@
 /*2. Необхідно визначити чи відвідувач може проходими в зал
  і переглядати фільм із обмеженням PG-13*/
 
-const age = 12;
-const accompanied = false;
-const result = age && accompanied;
-console.log(result);
+// const age = 12;
+// const accompanied = false;
+// const result = age && accompanied;
+// console.log(result);
