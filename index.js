@@ -24,3 +24,5 @@ const age = 12;
 const accompanied = false;
 const result = age && accompanied;
 console.log(result);
+
+// add mew branch
